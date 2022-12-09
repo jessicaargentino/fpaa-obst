@@ -19,7 +19,5 @@ Para utilizar a aplicação é necessário ter em mãos o nome do arquivo (neces
 
 Para utilizar a aplicação é necessário somente inserir as palavras no dicionário. Você também pode buscar as palavras inseridas, e posteriormente, imprimir a árvore com a frequência de cada palavra, bem como seus filhos a esquerda e a direita.
 
-<br>Observação: O código foi obtido pelo Geeks for Geeks, com adaptações realizadas pelo grupo.</br>
-
 ### Tecnologias
 Java
