@@ -9,9 +9,15 @@ Com uma IDE instalada, faça o download do código fonte no formato .zip e sua e
 <br>
 Para executar o projeto basta clicar no botão Run As > Java Application
 
-### Como utilizar
+### Como utilizar - 1ª implementação
 
 Para utilizar a aplicação é necessário ter em mãos o nome do arquivo (necessário estar no disco C:/ e em formato .txt) da sua entrada de dados. A entrada deve ser separada por quebra de linha (\n), sendo uma palavra por linha. O programa realiza a leitura do arquivo, bem como inserção no Map, contabilização da frequência e contabilização do custo, que é imprimido posteriormente, junto com as palavras e frequências.
+
+<br>Observação: O código foi obtido pelo Geeks for Geeks, com adaptações realizadas pelo grupo.</br>
+
+### Como utilizar - 2ª implementação
+
+Para utilizar a aplicação é necessário somente inserir as palavras no dicionário. Você também pode buscar as palavras inseridas, e posteriormente, imprimir a árvore com a frequência de cada palavra, bem como seus filhos a esquerda e a direita.
 
 <br>Observação: O código foi obtido pelo Geeks for Geeks, com adaptações realizadas pelo grupo.</br>
 
